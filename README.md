@@ -11,9 +11,6 @@
 
 将源码克隆到任意一个工作空间后使用catkin build编译，若工作空间已编译，则需要先删除build和devel:)<br/>->`catkin build`
 
-一些个人开发的ROS包，仅供学习开源，请勿用于商业用途。
-
-
 |Tested environment:|
 |------------------|
 |Ubuntu 20.04|
@@ -21,3 +18,5 @@
 |Python 3.8.10|
 |torch 2.0 && cuda 11.7|
 |cnstd 1.2.2|
+
+一些个人开发的ROS包，仅供学习开源，请勿用于商业用途。
