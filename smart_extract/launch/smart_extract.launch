@@ -1,4 +1,0 @@
-<launch>
-<node pkg="smart_extract" type="get_pic.py" name="get_pic"/>
-<node pkg="smart_extract" type="ocr.py" name="ocr" output="screen" respawn="false"/>
-</launch>
