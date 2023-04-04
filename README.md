@@ -1,5 +1,5 @@
 ## Brief Introduction - some ros1 packages (uploading)
-默认语言：英语 切换语言：[中文](https://github.com/Zeaulo/jinghao_ros/blob/main/README_cn.md)<br/>
+默认语言：英语<br/>切换语言：[中文](https://github.com/Zeaulo/jinghao_ros/blob/main/README_cn.md)<br/>
 **smart_extract** 介绍：
   应用于移动机器人，启动后可以调用摄像头抓取画面内出现的特定文字（仅支持中英文），准确度非常高。该ROS功能已为参数提供接口设置，二次开发的自由度很高。请在运行前，确保以下的python依赖包已安装：
 
