@@ -5,7 +5,7 @@
 <br/><br/>
 **vision_opencv** package：<br/>
 &emsp;To address the lack of cv_bridge in Python 3, please refer to:https://github.com/ros-perception/vision_opencv.git
-<br/>Clone the source code to any workspace and use Catkin build to compile. If the workspace has already been compiled, you need to first remove the build and devel:)<br/>->`catkin build`
+<br/>&emsp;Clone the source code to any workspace and use Catkin build to compile. If the workspace has already been compiled, you need to first remove the build and devel:)<br/>->`catkin build`
 
 |Tested environment:|
 |------------------|
