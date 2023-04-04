@@ -2,15 +2,10 @@
 Brief Introduction:some ros1 packages
 
 Tested environment:
-
 Ubuntu 20.04
-
 Ros Noetic
-
 Python 3.8.10
-
 torch 2.0 && cuda 11.7
-
 cnstd 1.2.2
 
 
