@@ -1,8 +1,13 @@
 # jinghao_ros
 ## Brief Introduction:some ros1 packages
-
-Tested environment:<br/>Ubuntu 20.04<br/>Ros Noetic<br/>Python 3.8.10<br/>torch 2.0 && cuda 11.7<br/>cnstd 1.2.2
-
+----------------------
+|Tested environment:|
+|Ubuntu 20.04|
+|Ros1 Noetic|
+|Python 3.8.10|
+|torch 2.0 && cuda 11.7|
+|cnstd 1.2.2|
+----------------------
 **smart_extract** 介绍：
   应用于移动机器人，启动后可以调用摄像头抓取画面内出现的特定文字（仅支持中英文），准确度非常高。该ROS功能已为参数提供接口设置，二次开发的自由度很高。请在运行前，确保以下的python依赖包已安装：
 
