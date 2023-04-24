@@ -1,4 +1,4 @@
-## Brief Introduction - some ros1 packages (uploading)
+## Smart extraction Based on ROS1
 默认语言：英语<br/>切换语言：[中文](https://github.com/Zeaulo/jinghao_ros/blob/main/README_cn.md)<br/><br/>
 **smart_extract** package：<br/>
 &emsp;This package is applied to mobile visual robot.After startup, the camera can be called to capture specific text that appears in the screen (only supported in Chinese and English), with very high accuracy. The code file has provided interface settings for parameters, and the degree of freedom for secondary development is very high. Please ensure that the following Python dependency packages are installed before running:<br/>->`pip3 install cnstd`<br/>->`pip3 install torch torchvision`
